@@ -1,0 +1,8 @@
+- Nikto v2.5.0/
++ Target Host: 15.197.225.128
++ Target Port: 80
++ GET : Server banner changed from 'ip-100-74-5-17.eu-west-2.compute.internal' to 'ip-100-74-4-66.eu-west-2.compute.internal'.
++ GET /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-O>
++ GET /: Uncommon header 'x-request-id' found, with contents: 375d012e-8a35-4906-9c5b-f91e73c2cd81.
++ GET /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashio>
++ GET /1H8JFf8Y.php#: Uncommon header 'wafrule' found, with contents: 5.
